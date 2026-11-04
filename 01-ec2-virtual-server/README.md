@@ -57,7 +57,7 @@ The Ubuntu EC2 instance running in the Stockholm region.
 Inbound SSH access restricted to a specific IP address.
 
 ![Security Group](screenshots/Security-group.png)
-![Security Group](screenshots/Security-group(1).png)
+![Security Group(1)](screenshots/Security-group(1).png)
 
 ### 3. Network Configuration
 The VPC, subnet, and IP configuration of the instance.
@@ -67,7 +67,7 @@ The VPC, subnet, and IP configuration of the instance.
 ### 4. SSH Connection
 Successfully connected to the Ubuntu server using SSH.
 
-![SSH Connection](screenshots/Successful-connection.png)
+![Successful Connection](screenshots/Successful-connection.png)
 
 
 ## What I Learned
