@@ -43,10 +43,11 @@ I then connected to the instance and ran a Linux command to confirm that the vir
 This project helped me understand how virtual servers are deployed in AWS, how security groups control network access, and how different infrastructure components work together.
 
 ## Architecture Diagram
+![EC2 Architecture](ec2-architecture.drawio.png)
 
 ## Screenshots
 
-[Insert screenshots of the instance, networking settings, security group, and successful connection]
+![Screenshots of the instance, networking settings, security group, and successful connection] (01-ec2-virtual-server/screenshots/)
 
 ## What I Learned
 
