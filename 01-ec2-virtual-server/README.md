@@ -51,13 +51,13 @@ This project helped me understand how virtual servers are deployed in AWS, how s
 ### 1. EC2 Instance Overview
 The Ubuntu EC2 instance running in the Stockholm region.
 
-![EC2 Instance](screenshots/Instance overview.png)
+![EC2 Instance](screenshots/Instance-overview.png)
 
 ### 2. Security Group Configuration
 Inbound SSH access restricted to a specific IP address.
 
 ![Security Group](screenshots/Security-group.png)
-![Security Group(1)](screenshots/Security-group(1).png)
+![Security Group(1)](screenshots/Security-group-(1).png)
 
 ### 3. Network Configuration
 The VPC, subnet, and IP configuration of the instance.
