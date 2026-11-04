@@ -45,9 +45,30 @@ This project helped me understand how virtual servers are deployed in AWS, how s
 ## Architecture Diagram
 ![EC2 Architecture](ec2-architecture.drawio.png)
 
+
 ## Screenshots
 
-![Screenshots of the instance, networking settings, security group, and successful connection] (01-ec2-virtual-server/screenshots/)
+### 1. EC2 Instance Overview
+The Ubuntu EC2 instance running in the Stockholm region.
+
+![EC2 Instance](screenshots/Instance overview.png)
+
+### 2. Security Group Configuration
+Inbound SSH access restricted to a specific IP address.
+
+![Security Group](screenshots/Security-group.png)
+![Security Group](screenshots/Security-group(1).png)
+
+### 3. Network Configuration
+The VPC, subnet, and IP configuration of the instance.
+
+![Networking](screenshots/Networking.png)
+
+### 4. SSH Connection
+Successfully connected to the Ubuntu server using SSH.
+
+![SSH Connection](screenshots/Successful-connection.png)
+
 
 ## What I Learned
 
