@@ -60,7 +60,7 @@ The following diagram illustrates the relationship between the IAM user, group, 
 
 Created the `EC2-Viewers` group and attached the `AmazonEC2ReadOnlyAccess` policy.
 
-![IAM User Group](screenshots/EC2%20viewers%20group.png)
+![IAM User Group](screenshots/EC2-viewers%20group.png)
 
 ### 2. IAM Test User
 
@@ -72,13 +72,13 @@ The `ec2-viewer-test` user inherits permissions through membership in the `EC2-V
 
 The IAM Policy Simulator confirms that `ec2:DescribeInstances` is allowed.
 
-![Allowed Action](screenshots/Allowed-action.png)
+![Allowed Action](screenshots/Allowed%20action.png)
 
 ### 4. Denied Action
 
 The IAM Policy Simulator confirms that `ec2:TerminateInstances` is implicitly denied.
 
-![Denied Action](screenshots/Denied-action.png)
+![Denied Action](screenshots/Denied%20action.png)
 
 ## What I Learned
 
