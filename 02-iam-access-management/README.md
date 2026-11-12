@@ -52,7 +52,7 @@ These results confirmed that the tested permissions behaved as intended.
 
 The following diagram illustrates the relationship between the IAM user, group, attached policy, and permission simulation results.
 
-![IAM Architecture Diagram](architecture.png)
+![IAM Architecture Diagram](IAM%20architecture%20diagram.png)
 
 ## Screenshots
 
@@ -60,13 +60,13 @@ The following diagram illustrates the relationship between the IAM user, group, 
 
 Created the `EC2-Viewers` group and attached the `AmazonEC2ReadOnlyAccess` policy.
 
-![IAM User Group](screenshots/EC2-viewers-group.png)
+![IAM User Group](screenshots/EC2%20viewers%20group.png)
 
 ### 2. IAM Test User
 
 The `ec2-viewer-test` user inherits permissions through membership in the `EC2-Viewers` group.
 
-![IAM Test User](screenshots/Test-user.png)
+![IAM Test User](screenshots/Test%20user.png)
 
 ### 3. Allowed Action
 
