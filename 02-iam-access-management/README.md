@@ -60,7 +60,7 @@ The following diagram illustrates the relationship between the IAM user, group, 
 
 Created the `EC2-Viewers` group and attached the `AmazonEC2ReadOnlyAccess` policy.
 
-![IAM User Group](screenshots/EC2-viewers%20group.png)
+![IAM User Group](screenshots/EC2-Viewers%20group.png)
 
 ### 2. IAM Test User
 
