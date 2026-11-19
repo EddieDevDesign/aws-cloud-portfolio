@@ -24,13 +24,31 @@ Deployed an Ubuntu Linux virtual server using Amazon EC2, configured network sec
 
 **AWS Services:** EC2, VPC, Security Groups, EBS
 
-## Skills I'm Developing
+[View Project](01-ec2-virtual-server/)
 
-- AWS cloud infrastructure
-- Linux server administration
-- Virtual networking and security
-- Identity and access management
-- Cloud architecture and documentation
+  ### 02. IAM User Groups & Access Management
+
+Configured AWS Identity and Access Management (IAM) by creating a user group, assigning an EC2 read-only policy, and managing a test user's permissions. Used the IAM Policy Simulator to verify allowed and denied actions, demonstrating group-based access control and the principle of least privilege.
+
+**AWS Services:** IAM, IAM Policy Simulator, EC2
+
+[View Project](02-iam-access-management/)
+
+### 03. Amazon S3 Bucket Management
+
+Created and configured an Amazon S3 bucket to explore cloud object storage. Organized and uploaded files using folder-like prefixes, reviewed bucket security settings, and practiced managing stored objects through the AWS Management Console.
+
+**AWS Services:** Amazon S3
+
+[View Project](03-s3-bucket-management/)
+
+### 04. VPC Networking & Elastic IP Configuration
+
+Explored AWS networking by configuring VPC subnets, launching EC2 instances within a virtual network, and associating Elastic IP addresses. Documented the relationship between network configuration, private addressing, and public connectivity.
+
+**AWS Services:** Amazon VPC, EC2, Elastic IP
+
+[View Project](04-vpc-networking/)
 
 ## Future Goals
 
