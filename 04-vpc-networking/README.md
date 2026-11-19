@@ -54,25 +54,25 @@ The diagram illustrates the relationship between the VPC, subnet, EC2 instance, 
 
 Shows the VPC and its IPv4 CIDR configuration.
 
-![VPC Overview](screenshots/vpc-overview.png)
+![VPC Overview](screenshots/VPC%20overview.png)
 
 ### 2. Subnet Configuration
 
 Shows the subnet associated with the VPC, including its IPv4 CIDR block and Availability Zone.
 
-![Subnet Configuration](screenshots/subnet.png)
+![Subnet Configuration](screenshots/Subnet%20configuration.png)
 
 ### 3. Route Table
 
 Shows the subnet's route table and the default route to the internet gateway.
 
-![Route Table](screenshots/route-table.png)
+![Route Table](screenshots/Route%20table.png)
 
 ### 4. Elastic IP Association
 
 Shows the Elastic IP address associated with the EC2 instance.
 
-![Elastic IP](screenshots/elastic-ip.png)
+![Elastic IP](screenshots/Elastic%20IP%20association.png)
 
 ## What I Learned
 
